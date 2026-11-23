@@ -18,3 +18,21 @@ entries:
     url_status: ok
     url_last_verified: '2026-11-05'
     pricing_last_verified: '2026-11-05'
+  - name: PixelFx Studio
+    url: https://pixelfx.io/
+    added_at: '2026-11-23T12:25:00Z'
+    description: Free library of 244 MIT-licensed pixel-art effects such as fire, explosions, slashes and spells, with live preview and transparent PNG sprite sheet plus JSON downloads.
+    license: Open Source
+    entry_type: asset-source
+    tags:
+      workflow:
+        - fx
+        - animation
+      output:
+        - games
+      platform:
+        - web
+    readme_tags:
+      - Pixel VFX
+      - Free
+    best_for: 2D game effect sprite sheets
